@@ -1,0 +1,5 @@
+make clean
+make
+./sph-solver
+python post_process.py
+open anime.mp4
